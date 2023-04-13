@@ -1,0 +1,12 @@
+.my-container {
+    max-width: 800px;
+}
+
+form {
+    min-width: 800px;
+}
+
+.error {
+    color: red;
+    font-size: small;
+}
